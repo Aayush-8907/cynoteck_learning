@@ -79,5 +79,5 @@ In simple words:
 
 The model is used to predict the future of the action taken by the agent.
 
-- **Model-Based Learning**: The agent **uses a model** to simulate the future outcome of its actions. If the predicted outcome is good (positive feedback), it takes the action in the real environment; otherwise, it avoids it.
-- **Model-Free Learning**: The agent has **no model** of the environment. It learns by directly taking actions, observing the rewards, and adjusting its strategy based on the results.
+- **Model-Based Learning**: The agent **uses a model** to simulate the future outcome of its actions. If the predicted outcome is good (positive feedback), it takes the action in the real environment; otherwise, it avoids it. The model based learning is done in [[Dynamic Programming]]
+- **Model-Free Learning**: The agent has **no model** of the environment. It learns by directly taking actions, observing the rewards, and adjusting its strategy based on the results. The model free learning is done in [[Monte Carlo]]

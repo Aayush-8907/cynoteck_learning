@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cynoteck learning/reinforcement_learning/What is reinforcement learning ?.md",
+                "file": "cynoteck learning/reinforcement_learning/Reinforcement learning ?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is reinforcement learning ?"
+              "title": "Reinforcement learning ?"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cynoteck learning/reinforcement_learning/What is reinforcement learning ?.md",
+                "file": "cynoteck learning/reinforcement_learning/Reinforcement learning ?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for What is reinforcement learning ?"
+              "title": "Backlinks for Reinforcement learning ?"
             }
           },
           {
@@ -165,13 +165,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "5453d70efca73fc1",
   "lastOpenFiles": [
-    "cynoteck learning/reinforcement_learning/What is reinforcement learning ?.md",
+    "cynoteck learning/reinforcement_learning/Monte Carlo.md",
+    "cynoteck learning/reinforcement_learning/Reinforcement learning ?.md",
     "README.md",
+    "cynoteck learning/reinforcement_learning/Dynamic Programming.md",
     "2025-02-05.md",
     "cynoteck learning/reinforcement_learning",
     "cynoteck learning"

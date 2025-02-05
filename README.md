@@ -1,1 +1,4 @@
-# cynoteck_learning
+# The learning i done are
+
+## [[Reinforcement learning ?]]
+
