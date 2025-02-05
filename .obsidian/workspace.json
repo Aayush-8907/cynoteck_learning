@@ -171,10 +171,14 @@
   },
   "active": "5453d70efca73fc1",
   "lastOpenFiles": [
-    "cynoteck learning/reinforcement_learning/Monte Carlo.md",
+    "cynoteck learning/reinforcement_learning/ε-greedy.md",
     "cynoteck learning/reinforcement_learning/Reinforcement learning ?.md",
     "README.md",
+    "cynoteck learning/reinforcement_learning/Off Policy.md",
+    "cynoteck learning/reinforcement_learning/On Policy.md",
     "cynoteck learning/reinforcement_learning/Dynamic Programming.md",
+    "cynoteck learning/reinforcement_learning/Bellman Equation.md",
+    "cynoteck learning/reinforcement_learning/Monte Carlo.md",
     "2025-02-05.md",
     "cynoteck learning/reinforcement_learning",
     "cynoteck learning"

@@ -1,0 +1,1 @@
+It is a model based learning it means we need a model for the validating the action taken by the agent and also predicting the action. In this the model requires a full knowledge of the environment. The dynamic programming can we work in both episodic and continuous tasks. In the dynamic programming agent use [[Bellman Equation]] 

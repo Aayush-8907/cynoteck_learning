@@ -81,3 +81,24 @@ The model is used to predict the future of the action taken by the agent.
 
 - **Model-Based Learning**: The agent **uses a model** to simulate the future outcome of its actions. If the predicted outcome is good (positive feedback), it takes the action in the real environment; otherwise, it avoids it. The model based learning is done in [[Dynamic Programming]]
 - **Model-Free Learning**: The agent has **no model** of the environment. It learns by directly taking actions, observing the rewards, and adjusting its strategy based on the results. The model free learning is done in [[Monte Carlo]]
+
+
+## Exploration and Exploitation 
+
+- **Exploration**: This is when the agent tries out new actions to **explore** different possibilities, even if it already knows an action that works well. For example, if the agent has learned to park the car forward, it might try **parking in reverse** to see if it might work better or offer more rewards in the long run.
+    
+- **Exploitation**: This is when the agent uses its **current knowledge** to take the **best-known action**. If the agent has already learned that parking forward is optimal (based on past experiences and rewards), it will continue parking the car forward because it maximizes its reward.
+
+### The Trade-off:
+
+- **Too much exploration** can lead to the agent wasting time by trying unnecessary actions without making progress toward optimal behavior.
+- **Too much exploitation** can result in the agent missing out on potentially better actions or strategies it hasn't yet discovered.
+
+#### For balancing the exploration and exploitation we use [[ε-greedy]]
+## SARSA (State-Action-Reward-State-Action)
+
+The SARSA is an [[On Policy]] reinforcement learning algorithm.
+
+## Q-Learning 
+The Q-Learning is an [[Off Policy]] reinforcement learning algorithm.
+
