@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cynoteck learning/langchain/Models.md",
+                "file": "cynoteck learning/langchain/Chains.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Models"
+              "title": "Chains"
             }
           }
         ]
@@ -172,6 +172,8 @@
   "active": "5060c07b61cd459e",
   "lastOpenFiles": [
     "cynoteck learning/langchain/Langchain Components.md",
+    "cynoteck learning/langchain/Chains.md",
+    "cynoteck learning/langchain/Prompts.md",
     "cynoteck learning/langchain/Models.md",
     "cynoteck learning/Rag/RAG.md",
     "cynoteck learning/langchain",
