@@ -5,5 +5,5 @@ The langchain contains
 - [[Chains]]
 - [[Memory]]
 - [[Indexes]]
-- Agents
+- [[AI Agents]]
 
