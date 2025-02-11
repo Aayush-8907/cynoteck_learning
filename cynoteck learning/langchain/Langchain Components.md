@@ -3,7 +3,7 @@ The langchain contains
 - [[Models]]
 - [[Prompts]]
 - [[Chains]]
-- Memory
-- Indexes 
+- [[Memory]]
+- [[Indexes]]
 - Agents
 
