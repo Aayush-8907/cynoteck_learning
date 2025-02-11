@@ -1,4 +1,5 @@
 # The learning i done are
 
-## [[Reinforcement learning ?]]
+- ## [[Reinforcement learning ?]]
+- ## [[RAG]]]
 
