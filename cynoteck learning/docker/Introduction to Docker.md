@@ -1,12 +1,19 @@
-**Docker** is an open platform for developing, shipping, and running applications. It does this using **containers**, which contains all the necessary dependencies like libraries, and code that is required for run an application.
 
-**Here’s how Docker fits into development:**
+## What is Docker? 
 
-- **Containers**: These are lightweight, portable, and isolated environments (container can run independently without interfering with other container. For e.g. - one container contains python 3.11 and second container contains 3.10)
-- **CI/CD Integration**: Docker is often used in **CI/CD pipelines** to automate testing, deployment, and rollback processes.
-- **Error Handling & Redeployment**: If an error occurs in a test environment, developers can fix the issue, rebuild the container, and redeploy without affecting other applications.
-- **Collaboration**: Docker containers can be shared with teammates using **Docker Hub** or private registries, making it easy to distribute and collaborate on applications.
+- Docker is an **open-source centralized platform** used to **create, deploy, and run applications**. 
+- Docker uses **containers** on the host operating system (OS) to run applications.
+- It lets applications use the **same Linux kernel** as the system on the host computer, instead of creating a whole virtual OS. 
+- We can install Docker on **any OS**, but the Docker engine runs natively on a **Linux distribution**.
+- Docker is written in the **Go** language.
+- Docker is a tool that does **OS-level virtualisation**, also called **containerization**.
 
+## History and Purpose 
+- Docker was first released in **March 2013**. 
+- It was developed by **Solomon Hykes** and **Sebastien Pahl**. 
+- Docker is a set of **Platform as a Service (PaaS)** tools. 
+- It uses **OS-level virtualization**, while virtual machines (VMs) use **hardware-level virtualization**. 
+- Before Docker, many users had a problem: code would run on the **developer’s system** but not on the **user’s system**.
 
 ## Docker Architecture 
 Docker follows a client-server architecture i.e. the client send the request and then the server take the requests and according to that request it give the response.

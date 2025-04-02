@@ -1,4 +1,6 @@
 {
-  "cssTheme": "AnuPpuccin",
-  "theme": "moonstone"
+  "cssTheme": "Dracula Official",
+  "theme": "obsidian",
+  "baseFontSize": 16,
+  "nativeMenus": false
 }
