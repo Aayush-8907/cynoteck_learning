@@ -174,8 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,12 +187,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f330a20a65b1934a",
+  "active": "d91604eb45d4d5da",
   "lastOpenFiles": [
     "cynoteck learning/docker/2025-04-02.md",
+    "cynoteck learning/docker/2025-04-01.md",
+    "Truventor/2025-04-05.md",
+    "Truventor/2025-04-04.md",
     "Truventor/2025-04-03.md",
     "Truventor",
-    "cynoteck learning/docker/2025-04-01.md",
     "docker architecture.png",
     "cynoteck learning/langchain/Models.md",
     "cynoteck learning/langchain/Langchain Components.md",
