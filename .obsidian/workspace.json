@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Truventor/2025-04-03.md",
+                "file": "Truventor/2025-04-07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-03"
+              "title": "2025-04-07"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Truventor/2025-04-03.md",
+                "file": "Truventor/2025-04-07.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-04-03"
+              "title": "Outline of 2025-04-07"
             }
           }
         ],
@@ -189,11 +189,12 @@
   },
   "active": "d91604eb45d4d5da",
   "lastOpenFiles": [
+    "Truventor/2025-04-07.md",
+    "Truventor/2025-04-05.md",
+    "Truventor/2025-04-03.md",
+    "Truventor/2025-04-04.md",
     "cynoteck learning/docker/2025-04-02.md",
     "cynoteck learning/docker/2025-04-01.md",
-    "Truventor/2025-04-05.md",
-    "Truventor/2025-04-04.md",
-    "Truventor/2025-04-03.md",
     "Truventor",
     "docker architecture.png",
     "cynoteck learning/langchain/Models.md",
