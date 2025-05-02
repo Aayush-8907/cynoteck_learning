@@ -1,4 +1,4 @@
-### Docker Architecture:
+
 
 ![[docker architecture.png]]
 

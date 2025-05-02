@@ -1,6 +1,4 @@
 
-## What is Docker? 
-
 - Docker is an **open-source centralized platform** used to **create, deploy, and run applications**. 
 - Docker uses **containers** on the host operating system (OS) to run applications.
 - It lets applications use the **same Linux kernel** as the system on the host computer, instead of creating a whole virtual OS. 

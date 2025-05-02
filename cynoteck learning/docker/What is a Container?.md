@@ -1,4 +1,3 @@
-## What is a Container?
 
 A container is like a small package that contains everything needed to run an application.
 
