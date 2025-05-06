@@ -1,4 +1,4 @@
-## 1. **Create the Flask App**
+ ## 1. **Create the Flask App**
 
 We will create a basic Flask application that displays "Hello, Docker!" when accessed through the browser.
 
