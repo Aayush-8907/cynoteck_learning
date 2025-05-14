@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cynoteck learning/docker/Docker Compose.md",
+                "file": "cynoteck learning/docker/Volumes in Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker Compose"
+              "title": "Volumes in Docker"
             }
           },
           {
@@ -200,8 +200,9 @@
   },
   "active": "d91604eb45d4d5da",
   "lastOpenFiles": [
-    "Truventor/2025-04-05.md",
     "cynoteck learning/docker/Docker Compose.md",
+    "cynoteck learning/docker/Volumes in Docker.md",
+    "Truventor/2025-04-05.md",
     "Truventor/2025-04-07.md",
     "Truventor/2025-04-08.md",
     "Truventor/2025-04-04.md",
@@ -232,7 +233,6 @@
     "cynoteck learning/langchain/Models.md",
     "cynoteck learning/langchain/Langchain Components.md",
     "cynoteck learning/langchain/Memory.md",
-    "cynoteck learning/langchain/Prompts.md",
     "Untitled.canvas",
     "cynoteck learning/docker",
     "cynoteck learning/langchain",
